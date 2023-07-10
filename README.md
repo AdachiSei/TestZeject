@@ -1,6 +1,5 @@
-# Development-Template
-
-長期開発用テンプレート
+# Zenject
+テスト用
 
 ## 開発環境
 
