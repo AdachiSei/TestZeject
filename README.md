@@ -124,15 +124,15 @@ public class AnyName
     #region Inspector Variables
         // Unity Inspectorに表示したいもの
     #region Member Variables
-        // プライベートなメンバー変数
+        // メンバー変数
     #region Constants
         // 定数
     #region Events
-        // System.Action, System.Func などのデリゲートやコールバック関数
+        // デリゲートやコールバック関数
     #region Constructor
         // コンストラクタ
     #region Unity Methods
-        // Start, UpdateなどのUnityのイベント関数
+        // Unityのイベント関数
     #region Enums
         // 列挙型
     #region Public Methods
