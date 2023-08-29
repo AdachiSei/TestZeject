@@ -1,5 +1,5 @@
 # TestExtenject
-テスト用
+Extenjectのテスト用
 
 ## 開発環境
 
