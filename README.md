@@ -1,5 +1,5 @@
 # TestExtenject
-Extenjectのテスト用
+Extenjectのテスト用リポジトリ
 
 ## 開発環境
 
